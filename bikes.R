@@ -1,8 +1,5 @@
 library(tidyverse)
 
-
-#setwd("C:/Users/Raffy/OneDrive/Documents/DATA SCIENCE PROJECTS/london_bikeshare/archive")
-
 bikes = read.csv("london_merged.csv")
 
 
